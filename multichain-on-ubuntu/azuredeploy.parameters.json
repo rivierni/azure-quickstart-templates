@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE-11"
+      "value": "mydns"
     },
     "adminUsername": {
       "value": "azureuser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Bmc1234!Bmc1234!"
     },
     "vmSize": {
       "value": "Standard_D1"
